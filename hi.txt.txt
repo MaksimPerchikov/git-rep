@@ -1,3 +1,5 @@
 ("Hello,World!");
 ("Hi!")
 ("221")
+
+print ("hello my dear friends!");
